@@ -1,8 +1,8 @@
 Analyzing the sales of a  Restaurant on different parameters such as
-region wise sales,
-top ten customer,
-month and yr wise sales, 
-percentage of sales in diferent regions, 
+region wise sales
+top ten customer
+month and year wise sales 
+percentage of sales in diferent regions 
 profit in diferent regions.
 
 Finally visualize these parametres using a Dashboard. 
